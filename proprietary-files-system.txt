@@ -1,0 +1,16 @@
+etc/firmware/IT8566_CEC.BIN
+etc/firmware/msvdx.bin.0008.0000.0000
+etc/firmware/msvdx.bin.0008.0000.0001
+etc/firmware/msvdx.bin.0008.0000.0002
+etc/firmware/msvdx.bin.0008.0002.0001
+etc/firmware/msvdx.bin.000c.0001.0001
+etc/firmware/topaz.bin.0008.0000.0000
+etc/firmware/topaz.bin.0008.0000.0001
+etc/firmware/topaz.bin.0008.0000.0002
+etc/firmware/topaz.bin.0008.0002.0001
+etc/firmware/topaz.bin.000c.0001.0001
+etc/firmware/vsp.bin.0008.0000.0000
+etc/firmware/vsp.bin.0008.0000.0001
+etc/firmware/vsp.bin.0008.0000.0002
+etc/firmware/vsp.bin.0008.0002.0001
+etc/firmware/vsp.bin.000c.0001.0001

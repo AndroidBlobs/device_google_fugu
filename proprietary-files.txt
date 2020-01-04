@@ -1,0 +1,127 @@
+
+# Audio
+vendor/lib/soundfx/libaudiopreprocessing.so
+
+# Audio-Hardware
+vendor/lib/hw/audio.primary.default.so
+vendor/lib/hw/audio.r_submix.default.so
+vendor/lib/hw/audio.stub.default.so
+vendor/lib/hw/audio.usb.default.so
+
+# Bluetooth
+vendor/lib/hw/android.hardware.bluetooth@1.0-impl.so
+vendor/lib/libbt-vendor.so
+
+# Camera
+
+# DRM
+vendor/lib/liboemcrypto.so
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/mediadrm/libplayreadydrmplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+vendor/lib/hw/android.hardware.graphics.mapper@2.0-impl.so
+vendor/lib/hw/gralloc.default.so
+vendor/lib/hw/gralloc.moorefield.so
+vendor/lib/hw/memtrack.moorefield.so
+
+# Firmware
+etc/firmware/IT8566_CEC.BIN
+etc/firmware/msvdx.bin.0008.0000.0000
+etc/firmware/msvdx.bin.0008.0000.0001
+etc/firmware/msvdx.bin.0008.0000.0002
+etc/firmware/msvdx.bin.0008.0002.0001
+etc/firmware/msvdx.bin.000c.0001.0001
+etc/firmware/topaz.bin.0008.0000.0000
+etc/firmware/topaz.bin.0008.0000.0001
+etc/firmware/topaz.bin.0008.0000.0002
+etc/firmware/topaz.bin.0008.0002.0001
+etc/firmware/topaz.bin.000c.0001.0001
+etc/firmware/vsp.bin.0008.0000.0000
+etc/firmware/vsp.bin.0008.0000.0001
+etc/firmware/vsp.bin.0008.0000.0002
+etc/firmware/vsp.bin.0008.0002.0001
+etc/firmware/vsp.bin.000c.0001.0001
+vendor/firmware/BCM4350C0.hcd
+vendor/firmware/BCM4350C0_SR2.hcd
+vendor/firmware/fw_bcmdhd.bin
+vendor/firmware/fw_bcmdhd_apsta.bin
+vendor/firmware/nexus_tv_remote.hex
+vendor/firmware/PR-ModelCert
+vendor/firmware/rgx.fw.signed.1.72.4.12
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/libEGL_POWERVR_ROGUE.so
+vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so
+vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so
+vendor/lib/hw/vulkan.moorefield.so
+
+# Keymaster
+vendor/lib/hw/android.hardware.keymaster@3.0-impl.so
+
+# Keystore
+vendor/lib/libkeystore-engine-wifi-hidl.so
+vendor/lib/libkeystore-wifi-hidl.so
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# Power-Hardware
+vendor/lib/hw/android.hardware.power@1.0-impl.so
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# rootdir
+
+# Misc
+vendor/bin/hwperfbin2jsont
+vendor/bin/pvrdebug
+vendor/bin/pvrhtb2txt
+vendor/bin/pvrtld
+vendor/bin/rscompiler
+vendor/lib/hw/android.hardware.tv.cec@1.0-impl.so
+vendor/lib/hw/android.hardware.tv.input@1.0-impl.so
+vendor/lib/hw/tv_input.default.so
+vendor/lib/libDecoderVP9Hybrid.so
+vendor/lib/libglslcompiler.so
+vendor/lib/libIMGegl.so
+vendor/lib/libpvrcpt.so
+vendor/lib/libPVRRS.sha1.so
+vendor/lib/libPVRRS.so
+vendor/lib/libPVRScopeServices.so
+vendor/lib/libseppr_hal.so
+vendor/lib/libsrv_um.so
+vendor/lib/libufwriter.so
+vendor/lib/libusc.so
+vendor/lib/rs_intrinsics/3dlut.o
+vendor/lib/rs_intrinsics/blend.o
+vendor/lib/rs_intrinsics/blur.o
+vendor/lib/rs_intrinsics/colormatrix.o
+vendor/lib/rs_intrinsics/convolve3x3.o
+vendor/lib/rs_intrinsics/convolve5x5.o
+vendor/lib/rs_intrinsics/histogram.o
+vendor/lib/rs_intrinsics/lut.o
+vendor/lib/rs_intrinsics/resize.o
+vendor/lib/rs_intrinsics/yuv_to_rgb.o
